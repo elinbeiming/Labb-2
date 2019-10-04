@@ -1,5 +1,3 @@
-
-
 let store = {
   post: [
     {name: 'Top 10 ES6 Featuers every Wed Developer must know',
